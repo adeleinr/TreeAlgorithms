@@ -1,4 +1,4 @@
-package Trees;
+package treeprob;
 public class Node <Value extends Comparable<Value>>{
 	
 	public Node<Value> left, right;
